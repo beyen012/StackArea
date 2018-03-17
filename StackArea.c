@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 //
-this is stack area 
+this is stack area.
 //
 
 int main()
