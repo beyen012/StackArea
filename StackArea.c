@@ -1,5 +1,9 @@
 #include<stdio.h>
 
+//
+this is stack area 
+//
+
 int main()
 {
 int a=1;
