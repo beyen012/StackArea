@@ -14,3 +14,10 @@ int d=4;
 
 
 }
+
+
+void setLength(int l)
+
+{
+
+}
