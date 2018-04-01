@@ -4,6 +4,7 @@
 this is stack area.
 //
 
+#include<StackArea.h>
 int main()
 {
 int a=1;
