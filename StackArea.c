@@ -13,5 +13,12 @@ int c=3;
 int d=4;
 }
 
+}
 
+
+void setLength(int l)
+
+{
+
+}
 
