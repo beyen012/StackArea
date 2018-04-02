@@ -6,7 +6,7 @@ this is stack area.
   before merging to Master
   
 //
-
+#define PASS 1
 #include<StackArea.h>
 int main()
 {
@@ -24,3 +24,4 @@ void setLength(int l)
 {
 
 }
+
