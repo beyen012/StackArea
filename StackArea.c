@@ -8,6 +8,8 @@ this is stack area.
   before merging to Master
   
 //
+
+unsigned long int length=0;
 #define PASS 1
 #include<StackArea.h>
 int main()
