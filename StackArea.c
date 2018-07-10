@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 //define global
-
+#define 
 //
 this is stack area.
 //
